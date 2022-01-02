@@ -1,0 +1,158 @@
+{
+  "place": [
+    {
+      "id": "VN-13",
+      "name": "Quang Ninh",
+      "abbreviation": "QNi",
+      "coordinate": {
+        "longitude": "107°11'37\"E",
+        "latitude": "21°15'04\"N"
+      },
+      "description": "Ha Long Bay, Tuan Chau Peninsula, Bai Tu Long Bay, Bai Chay, Tra Co, Lung Xanh Waterfall, Yen Tu Tourist Area, Co To Island",
+      "image": [ "images/VN_13/VN-13_1.jpg", "images/VN_13/VN-13_2.jpg", "images/VN_13/VN-13_3.jpg", "images/VN_13/VN-13_4.jpg", "images/VN_13/VN-13_5.jpg" ]
+    },
+    {
+      "id": "VN-27",
+      "name": "Quang Nam",
+      "abbreviation": "QNa",
+      "coordinate": {
+        "longitude": "108°02'12\"E",
+        "latitude": "15°33'25\"N"
+      },
+      "description": "Hoi An Ancient Town, Cham Islands, My Son Holy Sanctuary, Cua Dai Beach, An Bang Beach, Rang Shoal, Dong Giang Hill Tea",
+      "image": [ "images/VN_27/VN-27_1.jpg", "images/VN_27/VN-27_2.jpg", "images/VN_27/VN-27_3.jpg", "images/VN_27/VN-27_4.jpg", "images/VN_27/VN-27_5.jpg", "images/VN_27/VN-27_6.jpg", "images/VN_27/VN-27_7.jpg"]
+    },
+    {
+      "id": "VN-HN",
+      "name": "Ha Noi",
+      "abbreviation": "HN",
+      "coordinate": {
+        "longitude": "105°51'12\"E",
+        "latitude": "21°1'42\"N"
+      },
+      "description": "Hoan Kiem Lake and Turtle Tower, The Big Church Ha Noi, Long Bien Bridge, Westlake, My Dinh Stadium, Landmark Sky, Royal City",
+      "image": [ "images/VN_HN/VN-HN_1.jpg", "images/VN_HN/VN-HN_2.jpg", "images/VN_HN/VN-HN_3.jpg", "images/VN_HN/VN-HN_4.jpg", "images/VN_HN/VN-HN_5.jpg" ]
+    },
+    {
+      "id": "VN-DN",
+      "name": "Da Nang",
+      "abbreviation": "DN",
+      "coordinate": {
+        "longitude": "108°13'22\"E",
+        "latitude": "16°4'36\"N"
+      },
+      "description": "My Khe Beach, Ba Na Hill - Golden Bridge, Son Tra Peninsula, Marble Mountain, Hai Van Pass Scenic Lookout, Dragon Bridge",
+      "image": [ "images/VN_DN/VN-DN_1.jpg", "images/VN_DN/VN-DN_2.jpg", "images/VN_DN/VN-DN_3.jpg", "images/VN_DN/VN-DN_4.jpg", "images/VN_DN/VN-DN_5.jpg", "images/VN_DN/VN-DN_6.jpg", "images/VN_DN/VN-DN_7.jpg" ]
+    },
+    {
+      "id": "VN-34",
+      "name": "Khanh Hoa - Nha Trang",
+      "abbreviation": "KH-NT",
+      "coordinate": {
+        "longitude": "109°2'51.97\"E",
+        "latitude": "12°4'23.01\"N"
+      },
+      "description": "Hon Tre - Vinpearl Land, Dai Lanh Beach, Bai Dai Beach, Van Phong Bay, Doc Let, Ponagar Cham Temple, Nha Trang Stone Church",
+      "image": [ "images/VN_34/VN-34_1.jpg", "images/VN_34/VN-34_2.jpg", "images/VN_34/VN-34_3.jpg", "images/VN_34/VN-34_4.jpg", "images/VN_34/VN-34_5.jpg", "images/VN_34/VN-34_6.jpg" ]
+    },
+    {
+      "id": "VN-26",
+      "name": "Thua Thien - Hue",
+      "abbreviation": "TT-H",
+      "coordinate": {
+        "longitude": "107°35'5.35\"E",
+        "latitude": "16°27'49.48\"N"
+      },
+      "description": "Truc Lam Bach Ma Zen Monastery, Huong River, Vong Canh Belvedere Hilltop, Ngu Binh Moutain, Bach Ma Moutain, Trang Tien Bridge",
+      "image": [ "images/VN_26/VN-26_1.jpg", "images/VN_26/VN-26_2.jpg", "images/VN_26/VN-26_3.jpg", "images/VN_26/VN-26_4.jpg", "images/VN_26/VN-26_5.jpg", "images/VN_26/VN-26_6.jpg" ]
+    },
+    {
+      "id": "VN-35",
+      "name": "Lam Dong",
+      "abbreviation": "LD",
+      "coordinate": {
+        "longitude": "108°8'28.22\"E",
+        "latitude": "11°41'4.25\"N"
+      },
+      "description": "Valley of Love, Da Lat Flower Garden, Bao Dai Waterfall, Pongour Waterfall, Datanla Waterfall, Mong Mo Hill",
+      "image": [ "images/VN_35/VN-35_1.jpg", "images/VN_35/VN-35_2.jpg", "images/VN_35/VN-35_3.jpg", "images/VN_35/VN-35_4.jpg", "images/VN_35/VN-35_5.jpg" ]
+    },
+    {
+      "id": "VN-47",
+      "name": "Kien Giang",
+      "abbreviation": "KG",
+      "coordinate": {
+        "longitude": "105°7'31.54\"E",
+        "latitude": "9°50'10.58\"N"
+      },
+      "description": "Phu Quoc, Ha Tien, Nam Du, Hon Son, Phu Tu, Rach Gia, Ba Lua, U Minh Thuong National Park",
+      "image": [ "images/VN_47/VN-47_1.jpg", "images/VN_47/VN-47_2.jpg", "images/VN_47/VN-47_3.jpg", "images/VN_47/VN-47_4.jpg", "images/VN_47/VN-47_5.jpg" ]
+    },
+    {
+      "id": "VN-02",
+      "name": "Lao Cai",
+      "abbreviation": "LC",
+      "coordinate": {
+        "longitude": "104°9'28.3\"E",
+        "latitude": "22°22'47.99\"N"
+      },
+      "description": "Ham Rong Moutain, Love Waterfall Sapa, Bac Waterfall, Muong Hoa Valley, Fansipan Moutain, Shin Chai Village, Bac Ha Market",
+      "image": [ "images/VN_02/VN-02_1.jpg", "images/VN_02/VN-02_2.jpg", "images/VN_02/VN-02_3.jpg", "images/VN_02/VN-02_4.jpg" ]
+    },
+    {
+      "id": "VN-03",
+      "name": "Ha Giang",
+      "abbreviation": "HG",
+      "coordinate": {
+        "longitude": "104°58'50.66\"E",
+        "latitude": "22°49'0.48\"N"
+      },
+      "description": "Yen Minh Pine Forest, Sung La Valley, Vuong Palace, Lung Cu Flag-Pole, Dong Van Ancient Town, Ma Pi Leng Pass, Phien Market",
+      "image": [ "images/VN_03/VN-03_1.jpg", "images/VN_03/VN-03_2.jpg", "images/VN_03/VN-03_3.jpg", "images/VN_03/VN-03_4.jpg", "images/VN_03/VN-03_5.jpg" ]
+    },
+    {
+      "id": "VN-18",
+      "name": "Ninh Binh",
+      "abbreviation": "NB",
+      "coordinate": {
+        "longitude": "105°58'29.31\"E",
+        "latitude": "20°15'3.32\"N"
+      },
+      "description": "Hoa Lu Ancient Capital, Trang An, Tam Coc - Bich Dong, Mua Caves Ecolodge, Bai Dinh Pagoda, Am Tine Cave, Van Long Nature Reserve",
+      "image": [ "images/VN_18/VN-18_1.jpg", "images/VN_18/VN-18_2.jpg", "images/VN_18/VN-18_3.jpg" ]
+    },
+    {
+      "id": "VN-21",
+      "name": "Thanh Hoa",
+      "abbreviation": "TH",
+      "coordinate": {
+        "longitude": "105°18'34.01\"E",
+        "latitude": "20°8'27.77\"N"
+      },
+      "description": "Sam Son Beach, Hai Tien Beach, Pu Luong Nature Reserve, Ham Rong Mountain Relic, Bim Son, Ba Doi Pass, Ben En National Park",
+      "image": [ "images/VN_21/VN-21_1.jpg", "images/VN_21/VN-21_2.jpg", "images/VN_21/VN-21_3.jpg", "images/VN_21/VN-21_4.jpg" ]
+    },
+    {
+      "id": "VN-37",
+      "name": "Tay Ninh",
+      "abbreviation": "TN",
+      "coordinate": {
+        "longitude": "106°7'8.41\"E",
+        "latitude": "11°22'4.06\"N"
+      },
+      "description": "Black Virgin Mountain, Cao Dai Tay Ninh Holy See, Long Dien Son, Chot Mat (Binh Thanh) Ancient Tower, Rocky Landscape Lake, Truc Spring",
+      "image": [ "images/VN_37/VN-37_1.jpg", "images/VN_37/VN-37_2.jpg", "images/VN_37/VN-37_3.jpg", "images/VN_37/VN-37_4.jpg" ]
+    },
+    {
+      "id": "VN-SG",
+      "name": "TP Ho Chi Minh",
+      "abbreviation": "HCM-SG",
+      "coordinate": {
+        "longitude": "106°40'55\"E",
+        "latitude": "10°46'10\"N"
+      },
+      "description": "Ben Thanh Market, Cu Chi Tunnels, Notre-Dame Cathedral Basilica of Saigon, Ho Chi Minh Museum, Fairy Spring, Dam Sen Park",
+      "image": [ "images/VN_SG/VN-SG_1.jpg", "images/VN_SG/VN-SG_2.jpg", "images/VN_SG/VN-SG_3.jpg", "images/VN_SG/VN-SG_4.jpg", "images/VN_SG/VN-SG_5.jpg", "images/VN_SG/VN-SG_6.jpg" ]
+    }
+  ]
+}
